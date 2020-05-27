@@ -7,32 +7,50 @@
 ```
 ![](images/software-docs.png)
 
+- It is part of the project
+
+    70% of the time reading
+
+    Speak for itself
+    
+    Is the face to the community
+
 - Documentation as code
 
-    Docmentación como codigo
-        deja de ser engorrosa, libros empolbandose en el internet
-        mas dinamica, mas rapida, mas entretenida
+    ![](images/git-docs-evolution.png)
+
 
 - Influences quality
 
     More quality
 
-- It is part of the project
-
-    La documentación  nos une a la comunidad por lo que es la cara de un proyecto, 
-    no es un tema aparte es parte del proyecto, 
-    el software habla por si solo
-    pasamos 70% del tiempo leyendo
+    Good code **vs** bad documentation
 
 ## How to Write Good Documentation
 
-
+[Article](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
+![](images/write-docs.png)
 
 ## Read the docs
 
-```mermaid
-graph TD
-A[Client] --> B[Load Balancer]
-B --> C[Server01]
-B --> D[Server02]
-```
+### where is it?
+
+* Readme of project
+* Wiki of project
+* Inside the code
+* Cloud folder: Drive(Docs, Calc, diagrams, ...)
+* Courses, people, etc...
+* [Read the docs](https://docs.readthedocs.io/en/stable/index.html)
+
+### What is it?
+
+> Technical documentation lives here
+
+> Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.
+
+### Tools
+
+- Sphinx
+- MkDocs
+
+> [tools for everything](https://www.sphinx-doc.org/en/master/examples.html)

@@ -4,6 +4,7 @@ Learn now about the documentation
 
 ## Workshop content
 - [About documenting](documents.md)
+    - Docs in software
     - Write good documentation
     - Read the docs
 - let's do it
